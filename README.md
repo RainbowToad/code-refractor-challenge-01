@@ -5,21 +5,13 @@
 This project was to help me refine my use of semantic HTML and practice CSS styling. It helped me learn about cleaning code and using an appropriate work flow with GitHub. I also learned about how there are many different ways to do something right from my classmates. 
 
 
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Screenshot of completed revisions
 
 
    md ![alt text](assets/images/screenshot.png)
     
-
 
 
 ## License
