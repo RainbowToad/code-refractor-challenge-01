@@ -10,7 +10,8 @@ This project was to help me refine my use of semantic HTML and practice CSS styl
 Screenshot of completed revisions
 
 
-   md ![alt text](assets/images/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/111533301/191139811-723c5d2b-2160-49af-bf80-6ca322474ee1.png)
+                                       
     
 
 
