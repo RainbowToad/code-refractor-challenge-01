@@ -4,13 +4,19 @@
 
 This project was to help me refine my use of semantic HTML and practice CSS styling. It helped me learn about cleaning code and using an appropriate work flow with GitHub. I also learned about how there are many different ways to do something right from my classmates. 
 
+Screenshot of completed project:
+
+![screenshot](https://user-images.githubusercontent.com/111533301/191139811-723c5d2b-2160-49af-bf80-6ca322474ee1.png)
 
 ## Usage
 
-Screenshot of completed revisions
+Active URL: https://rainbowtoad.github.io/code-refractor-challenge-01/
 
 
-![screenshot](https://user-images.githubusercontent.com/111533301/191139811-723c5d2b-2160-49af-bf80-6ca322474ee1.png)
+
+
+
+
                                        
     
 
